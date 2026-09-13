@@ -1,0 +1,6 @@
+{
+  "name": "Keep It Real",
+  "description": "Independent documentary film archive chronicling untold stories of courage, resilience, and humanity across India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
